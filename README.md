@@ -4,7 +4,7 @@
 
 ### Database diagram
 
-<img src="screenshots/database-diagram.png" alt="drawing" style="width:60%;height:60%"/>
+(https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 ### Chức năng của chương trình
 - Thêm mới một tài khoản
