@@ -19,4 +19,21 @@
 ![image](https://github.com/user-attachments/assets/62886525-25e0-4fd1-9ea2-effbfdb7b935)
 
 ### Giao diện trang admin
+![image](https://github.com/user-attachments/assets/8ca5f7f2-c921-4ef3-b5de-a9da91663c09)
+
+### Giao diện thêm một tài khoản
+![image](https://github.com/user-attachments/assets/614ea429-9b7a-48da-9eb9-084f0415cce4)
+
+### Giao diện thay đổi thông tin tài khoản
+![image](https://github.com/user-attachments/assets/052bfcdd-3048-4ef5-9df4-7e843e94729f)
+
+### Giao diện lọc các account theo role "administrator"
+![image](https://github.com/user-attachments/assets/c643f457-db01-4d1f-b3b9-a9dd78d08ec6)
+
+### Giao diện lọc các account theo role "user
+![image](https://github.com/user-attachments/assets/a79351a4-eb60-4bae-8f37-14a92aa5a948)
+
+
+
+
 
